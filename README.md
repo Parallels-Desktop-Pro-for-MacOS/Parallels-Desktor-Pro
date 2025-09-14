@@ -1,7 +1,7 @@
 # Parallels Desktop - Mac virtualization
 
 <p align="center">
-  <img src="https://www.qbssoftware.com/neur/wp-content/uploads/sites/6/2024/08/pardesktop-2.png" alt="Parallels Desktop Logo" width="200"/> 
+  <img src="https://www.qbssoftware.com/wp-content/uploads/2025/06/pardesktop-3.png" alt="Parallels Desktop Logo" width="200"/> 
 </p>
 
 <div align="center">
